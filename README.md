@@ -1,8 +1,6 @@
 # warp-docker
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/jonathanstrout/warp-docker)](https://hub.docker.com/r/jonathanstrout/warp-docker)
-[![WARP version in latest image](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.caomingjun.com%2Fdockerhub-label%3Frepo%3Djonathanstrout%2Fwarp%26label%3DWARP_VERSION%26display%3DWARP%2520in%2520image)
-![GOST version in latest image](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.caomingjun.com%2Fdockerhub-label%3Frepo%3Djonathanstrout%2Fwarp%26label%3DGOST_VERSION%26display%3DGOST%2520in%2520image)](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.caomingjun.com%2Fdockerhub-label%3Frepo%3Djonathanstrout%2Fwarp-docker%26label%3DWARP_VERSION%26display%3DWARP%2520in%2520image)
 
 Run official [Cloudflare WARP](https://1.1.1.1/) client in Docker.
 
